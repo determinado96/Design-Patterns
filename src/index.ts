@@ -1,0 +1,1 @@
+console.log("Bem-vindo a Polícia Penal!");
